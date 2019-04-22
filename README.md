@@ -1,15 +1,7 @@
-Project: Sliding Window Protocol
+Sliding Window Protocol
 ===============
 
-CSci4211 Summer 2015 Project
-Data: 7/20715
-Name: Xin Sun, Xinyue Zhang
-ID: sunx0279, zhan2937
-
-Documentation:
-=============
-
-All documentation is in client.c and server.c file.
+> Xin Sun, Xinyue Zhang
 
 Compilation:
 ===========
